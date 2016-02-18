@@ -1,0 +1,1166 @@
+fileFormatVersion: 2
+guid: d446aa67b1a82204fb79a36f2d4a5f96
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Backward
+    21300002: Blast
+    21300004: BlueButton
+    21300006: Check
+    21300008: Close
+    21300010: Cloud
+    21300012: Down
+    21300014: EmptyBlue
+    21300016: EmptyRed
+    21300018: EmptyYellow
+    21300020: FBlueRect
+    21300022: FYellow
+    21300024: FYellowRect
+    21300026: Flash
+    21300028: Forward
+    21300030: Left
+    21300032: MusicOff
+    21300034: MusicOn
+    21300036: Options
+    21300038: Pause
+    21300040: PauseRect
+    21300042: PlayDown
+    21300044: PlayDownRect
+    21300046: PlayLeft
+    21300048: PlayLeftRect
+    21300050: PlayRight
+    21300052: PlayRightRect
+    21300054: PlayUp
+    21300056: PlayUpRect
+    21300058: Purchase
+    21300060: Replay
+    21300062: Right
+    21300064: Rocket
+    21300066: SoundOff
+    21300068: SoundOn
+    21300070: Star
+    21300072: Store
+    21300074: TBlueRect
+    21300076: TYellow
+    21300078: TYellowRect
+    21300080: Up
+    21300082: Upgrades
+    21300084: WindowFrameBlueA
+    21300086: WindowFrameBlueB
+    21300088: WindowFrameBlueC
+    21300090: WindowFrameYellowA
+    21300092: WindowFrameYellowB
+    21300094: WindowFrameYellowC
+    21300096: YellowButton
+    21300098: GrayPoint
+    21300100: droid
+    21300102: gnu
+    21300104: kisi
+    21300106: kit
+    21300108: pacman
+    21300110: sara
+    21300112: tux
+    21300114: wilber
+    21300116: lock
+    21300118: hud_coins
+    21300120: hud_x
+    21300122: EmptyGreen
+    21300124: hud_coins_off
+    21300126: hud_heartEmpty
+    21300128: hud_heartFull
+    21300130: hud_heartHalf
+    21300132: loading1
+    21300134: loading2
+    21300136: loading3
+    21300138: loading4
+    21300140: loading5
+    21300142: loading6
+    21300144: loading7
+    21300146: loading8
+    21300148: progressbar1
+    21300150: progressbar2
+    21300152: progressbar3
+    21300154: progressbar4
+    21300156: progressbar5
+    21300158: EnergyBar0
+    21300160: EnergyBar1
+    21300162: EnergyBar10
+    21300164: EnergyBar2
+    21300166: EnergyBar3
+    21300168: EnergyBar4
+    21300170: EnergyBar6
+    21300172: EnergyBar7
+    21300174: EnergyBar8
+    21300176: EnergyBar9
+    21300178: EnergyBar5
+    21300180: EnergyBarBase
+    21300182: EnergyBarEnd
+    21300184: EnergyBarFull
+    21300186: EnergyBarGray
+    21300188: EnergyBarOrange
+    21300190: PanelShuriken
+    21300192: GreyPanel
+    21300194: PanelKisi
+    21300196: BridgeArea
+    21300198: ClosedArea
+    21300200: OpenArea
+    21300202: BridgeClosedArea
+    21300204: BridgeOpenArea
+    21300206: hud_keyBlue
+    21300208: hud_keyBlue_disabled
+    21300210: hud_keyGreem_disabled
+    21300212: hud_keyGreen
+    21300214: hud_keyRed
+    21300216: hud_keyRed_disabled
+    21300218: hud_keyYellow
+    21300220: hud_keyYellow_disabled
+    21300222: hud_star
+    21300224: hud_gem_yellow
+    21300226: MapArea1
+    21300228: MapArea2
+    21300230: MapArea3
+    21300232: MapArea4
+    21300234: MapArea5
+    21300236: PanelShell
+    21300238: MapArea0
+    21300240: RadarCircle
+    21300242: PanelBomb
+    21300244: PanelFireball
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Backward
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1579
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blast
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1579
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlueButton
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1706
+        width: 225
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Check
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1579
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Close
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1452
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cloud
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1452
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Down
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1452
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EmptyBlue
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1417
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EmptyGreen
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1325
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EmptyRed
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1325
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EmptyYellow
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1325
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnergyBarBase
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 2004
+        width: 11
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnergyBarFull
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1506
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnergyBarGray
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1462
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnergyBarOrange
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1418
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FBlueRect
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1417
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FYellow
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1417
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FYellowRect
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1417
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Flash
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1290
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Forward
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1198
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GrayPoint
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreyPanel
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1074
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Left
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1198
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MapArea0
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1008
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MapArea1
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 942
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MapArea2
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 876
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MapArea3
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 970
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MapArea4
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 904
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MapArea5
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 810
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MusicOff
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1198
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MusicOn
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1290
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Options
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1290
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PanelBomb
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 751
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PanelFireball
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 751
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PanelKisi
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 751
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PanelShell
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 751
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PanelShuriken
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 751
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pause
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1290
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PauseRect
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1163
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayDown
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1071
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayDownRect
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1071
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayLeft
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1071
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayLeftRect
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1163
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayRight
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1163
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayRightRect
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1163
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayUp
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1036
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayUpRect
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 944
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Purchase
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 944
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RadarCircle
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1550
+        width: 121
+        height: 121
+      alignment: 9
+      pivot: {x: .495867759, y: .504132211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Replay
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 944
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Right
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1036
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rocket
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1036
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SoundOff
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1036
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SoundOn
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 909
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Star
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 817
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Store
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 817
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TBlueRect
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 817
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TYellow
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 909
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TYellowRect
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 909
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Up
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 909
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Upgrades
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 782
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WindowFrameBlueA
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1796
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WindowFrameBlueB
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1796
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WindowFrameBlueC
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1771
+        width: 250
+        height: 275
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WindowFrameYellowA
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1544
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WindowFrameYellowB
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1544
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WindowFrameYellowC
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1771
+        width: 250
+        height: 275
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowButton
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1706
+        width: 225
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: droid
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1140
+        width: 68
+        height: 53
+      alignment: 9
+      pivot: {x: .404411763, y: .613207519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gnu
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1421
+        width: 81
+        height: 67
+      alignment: 9
+      pivot: {x: .475308657, y: .559701502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud_coins
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1722
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud_coins_off
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1673
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud_gem_yellow
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 713
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud_heartEmpty
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1226
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud_heartFull
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1179
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud_heartHalf
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1132
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud_keyBlue
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 709
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud_keyBlue_disabled
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 671
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud_keyGreem_disabled
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 661
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud_keyGreen
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 643
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud_keyRed
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 709
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud_keyRed_disabled
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 709
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud_keyYellow
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 867
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud_keyYellow_disabled
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 867
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud_x
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1676
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kisi
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1261
+        width: 72
+        height: 75
+      alignment: 9
+      pivot: {x: .4375, y: .526666641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kit
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 685
+        width: 62
+        height: 64
+      alignment: 9
+      pivot: {x: .379032254, y: .5703125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loading1
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1369
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loading2
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1321
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loading3
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1273
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loading4
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1084
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loading5
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1036
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loading6
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 769
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loading7
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 721
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loading8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 703
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pacman
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1195
+        width: 70
+        height: 64
+      alignment: 9
+      pivot: {x: .392857134, y: .5703125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sara
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1338
+        width: 79
+        height: 81
+      alignment: 9
+      pivot: {x: .487341762, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tux
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 748
+        width: 63
+        height: 60
+      alignment: 9
+      pivot: {x: .357142866, y: .641666651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wilber
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1490
+        width: 82
+        height: 58
+      alignment: 9
+      pivot: {x: .493902445, y: .612068951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

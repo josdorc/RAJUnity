@@ -1,0 +1,882 @@
+fileFormatVersion: 2
+guid: 12d6e75fa67eafb48a162ef8a2fbe433
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: box1
+    21300002: box2
+    21300004: box3
+    21300006: box4
+    21300008: box5
+    21300010: box6
+    21300012: box8
+    21300014: brick1
+    21300016: brick2
+    21300018: bridge
+    21300020: bridgeLogs
+    21300022: bubble
+    21300024: buttonBlue
+    21300026: buttonBlue_pressed
+    21300028: buttonGreen
+    21300030: buttonGreen_pressed
+    21300032: buttonRed
+    21300034: buttonRed_pressed
+    21300036: buttonYellow
+    21300038: buttonYellow_pressed
+    21300040: hud_coins
+    21300042: hud_heartEmpty
+    21300044: hud_heartFull
+    21300046: hud_heartHalf
+    21300048: hud_nocoins
+    21300050: keyBlue
+    21300052: keyGreen
+    21300054: keyRed
+    21300056: keyYellow
+    21300058: lock_blue
+    21300060: lock_green
+    21300062: lock_red
+    21300064: lock_yellow
+    21300066: sign
+    21300068: signExit
+    21300070: signRight
+    21300072: smallbrick1
+    21300074: smallbrick2
+    21300076: spikes
+    21300078: springboardDown
+    21300080: springboardUp
+    21300082: star
+    21300084: switchMid
+    21300086: switchRight
+    21300088: switch_blue
+    21300090: switch_green
+    21300092: switch_red
+    21300094: switch_yellow
+    21300096: tochLit
+    21300098: tochLit2
+    21300100: torch
+    21300102: shuriken
+    21300104: droid
+    21300106: gnu
+    21300108: kisi
+    21300110: kit
+    21300112: pacman
+    21300114: sara
+    21300116: tux
+    21300118: wilber
+    21300120: tube
+    21300122: tubejoin
+    21300124: plant
+    21300126: tubeglass
+    21300128: stand
+    21300130: postfenceOff
+    21300132: postfenceOn
+    21300134: doorColors
+    21300136: doorLight
+    21300138: doorOpen
+    21300140: flag1
+    21300142: flag10
+    21300144: flag11
+    21300146: flag2
+    21300148: flag3
+    21300150: flag4
+    21300152: flag5
+    21300154: flag6
+    21300156: flag7
+    21300158: flag8
+    21300160: flag9
+    21300162: flagpole
+    21300164: teleporter
+    21300166: tubegreen
+    21300168: gemBlue
+    21300170: gemGreen
+    21300172: gemRed
+    21300174: gemYellow
+    21300176: deck
+    21300178: switchLeft
+    21300180: item_map
+    21300182: window
+    21300184: lavastrip
+    21300186: stars_sphere
+    21300188: hud_compass
+    21300190: heart_sphere
+    21300192: ten_coins
+    21300194: Bomb
+    21300196: fireball
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Bomb
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 439
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: box1
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 663
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: box2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 682
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: box3
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 623
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: box4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 591
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: box5
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 519
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: box6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 676
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: box8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 676
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: brick1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 610
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: brick2
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 551
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bridge
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 748
+        width: 143
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bridgeLogs
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 706
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubble
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 735
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttonBlue
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 482
+        width: 70
+        height: 48
+      alignment: 9
+      pivot: {x: .5, y: .729166687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttonBlue_pressed
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 386
+        width: 70
+        height: 28
+      alignment: 9
+      pivot: {x: .5, y: 1.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttonGreen
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 432
+        width: 70
+        height: 48
+      alignment: 9
+      pivot: {x: .5, y: .729166687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttonGreen_pressed
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 362
+        width: 70
+        height: 28
+      alignment: 9
+      pivot: {x: .5, y: 1.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttonRed
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 416
+        width: 70
+        height: 48
+      alignment: 9
+      pivot: {x: .5, y: .729166687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttonRed_pressed
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 359
+        width: 70
+        height: 28
+      alignment: 9
+      pivot: {x: .5, y: 1.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttonYellow
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 428
+        width: 70
+        height: 48
+      alignment: 9
+      pivot: {x: .5, y: .729166687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttonYellow_pressed
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 377
+        width: 70
+        height: 28
+      alignment: 9
+      pivot: {x: .5, y: 1.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deck
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 772
+        width: 406
+        height: 250
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: droid
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 304
+        width: 68
+        height: 53
+      alignment: 9
+      pivot: {x: .404411763, y: .613207519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireball
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 727
+        width: 54
+        height: 43
+      alignment: 9
+      pivot: {x: .57407409, y: .465116292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gemYellow
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 522
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gnu
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 895
+        width: 81
+        height: 67
+      alignment: 9
+      pivot: {x: .475308657, y: .559701502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud_coins
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 577
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud_heartEmpty
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 680
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud_heartFull
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 707
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud_heartHalf
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 660
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud_nocoins
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 609
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: item_map
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 528
+        width: 49
+        height: 47
+      alignment: 9
+      pivot: {x: .510204077, y: .489361703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: keyBlue
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 309
+        width: 64
+        height: 40
+      alignment: 9
+      pivot: {x: .5, y: .425000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: keyGreen
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 118
+        width: 64
+        height: 40
+      alignment: 9
+      pivot: {x: .5, y: .425000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: keyRed
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 76
+        width: 64
+        height: 40
+      alignment: 9
+      pivot: {x: .5, y: .425000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: keyYellow
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 34
+        width: 64
+        height: 40
+      alignment: 9
+      pivot: {x: .5, y: .425000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kisi
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 695
+        width: 72
+        height: 75
+      alignment: 9
+      pivot: {x: .4375, y: .526666641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kit
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 351
+        width: 62
+        height: 64
+      alignment: 9
+      pivot: {x: .379032254, y: .5703125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lock_blue
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 604
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lock_green
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 604
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lock_red
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 538
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lock_yellow
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 479
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pacman
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 309
+        width: 70
+        height: 64
+      alignment: 9
+      pivot: {x: .392857134, y: .5703125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plant
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 399
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sara
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 812
+        width: 79
+        height: 81
+      alignment: 9
+      pivot: {x: .487341762, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shuriken
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 628
+        width: 52
+        height: 50
+      alignment: 9
+      pivot: {x: .480769217, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sign
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 447
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signExit
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 532
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signRight
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 232
+        width: 67
+        height: 70
+      alignment: 9
+      pivot: {x: .49253732, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smallbrick1
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 879
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smallbrick2
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 863
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spikes
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 389
+        width: 70
+        height: 37
+      alignment: 9
+      pivot: {x: .5, y: .945945919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: springboardDown
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 392
+        width: 70
+        height: 38
+      alignment: 9
+      pivot: {x: .5, y: .921052635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: springboardUp
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 478
+        width: 70
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .673076928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: star
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 560
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stars_sphere
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 562
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: switchLeft
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 324
+        width: 68
+        height: 60
+      alignment: 9
+      pivot: {x: .514705896, y: .583333313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: switchMid
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 307
+        width: 66
+        height: 68
+      alignment: 9
+      pivot: {x: .5, y: .514705896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: switchRight
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 300
+        width: 68
+        height: 60
+      alignment: 9
+      pivot: {x: .485294104, y: .583333313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: switch_blue
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 532
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: switch_green
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 466
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: switch_red
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 407
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: switch_yellow
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 375
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teleporter
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 754
+        width: 128
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ten_coins
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 479
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tochLit
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 488
+        width: 32
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tochLit2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 450
+        width: 32
+        height: 70
+      alignment: 9
+      pivot: {x: .53125, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tube
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 194
+        width: 65
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tubeglass
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 170
+        width: 65
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tubejoin
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 596
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tux
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 417
+        width: 63
+        height: 60
+      alignment: 9
+      pivot: {x: .357142866, y: .641666651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wilber
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 964
+        width: 82
+        height: 58
+      alignment: 9
+      pivot: {x: .493902445, y: .612068951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: window
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 160
+        width: 65
+        height: 70
+      alignment: 9
+      pivot: {x: .507692337, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

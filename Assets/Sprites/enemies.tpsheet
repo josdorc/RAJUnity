@@ -1,0 +1,36 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:7f7d5252a24f4e269bc0030850fc53bb:6fe2b4aafddc58f71baa13585b0eda7c:cd197aa7f94ab4627419d54ea5398dee$
+#
+:format=40000
+:texture=enemies.png
+:size=256x512
+
+BatFly1;92;463;70;47;0.5;0.5
+BatFly2;2;473;88;37;0.5;0.5
+BatHang;211;405;38;48;0.5;0.5
+DotPurple;69;461;10;10;0.5;0.5
+FireBall;2;132;26;28;0.5;0.5
+MadBlock1;2;214;51;51;0.5;0.5
+MadBlock2;55;188;51;51;0.5;0.5
+MadFire1;2;162;50;50;0.5;0.5
+MadFire2;178;169;50;50;0.5;0.5
+MadFire3;108;164;50;50;0.5;0.5
+Magnet1;2;416;65;55;0.5;0.5
+Magnet2;164;455;65;55;0.5;0.5
+SlimeDead;69;422;61;14;0.4918032786885246;0.5
+SlimeWalk1;57;241;52;30;0.5;0.5
+SlimeWalk2;124;365;53;28;0.49056603773584906;0.5
+SnailShell;54;154;46;32;0.5;0.5
+SnailWalk1;193;370;56;33;0.5;0.5151515151515151
+SnailWalk2;132;395;59;33;0.4915254237288136;0.5151515151515151
+SnakeWalk1;81;438;63;23;0.5;0.5
+SnakeWalk2;146;430;63;23;0.5;0.5
+WormGreenMove1;179;221;52;147;0.5;0.5
+WormGreenMove2;69;273;53;147;0.5;0.5
+WormGreenShoot1;124;216;52;147;0.5;0.5
+WormGreenShoot2;2;267;53;147;0.5;0.5

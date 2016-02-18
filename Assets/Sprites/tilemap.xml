@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:f633842c70a61f89b425beb53f5cdd64:61e8a07f4248d0be3014e6459ce002d4:1199be0e86f38ce5d9ee40e19de2cb45$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="tilemap.png" width="1024" height="1024">
+    <sprite n="desert (1).png" x="2" y="2" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="desert (10).png" x="68" y="2" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="desert (12).png" x="134" y="2" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="desert (13).png" x="200" y="2" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="desert (14).png" x="266" y="2" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="desert (15).png" x="332" y="2" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="desert (16).png" x="398" y="2" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="desert (18).png" x="464" y="2" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="desert (2).png" x="530" y="2" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="desert (20).png" x="596" y="2" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="desert (22).png" x="662" y="2" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="desert (24).png" x="728" y="2" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="desert (25).png" x="794" y="2" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="desert (26).png" x="860" y="2" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="desert (3).png" x="926" y="2" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="desert (4).png" x="2" y="68" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="desert (5).png" x="68" y="68" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="desert (6).png" x="134" y="68" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="desert (7).png" x="200" y="68" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="desert (9).png" x="266" y="68" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="dirt (1).png" x="332" y="68" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="dirt (2).png" x="398" y="68" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="dirt (3).png" x="464" y="68" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="dirt (4).png" x="530" y="68" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="dirt (5).png" x="596" y="68" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="dirt (6).png" x="662" y="68" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="dirt (7).png" x="728" y="68" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="dirt (8).png" x="794" y="68" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="dirt2 (1).png" x="860" y="68" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="dirt2 (2).png" x="926" y="68" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="dirt2 (3).png" x="2" y="134" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="dirt2 (4).png" x="68" y="134" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="dirt2 (5).png" x="134" y="134" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="dirt2 (6).png" x="200" y="134" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="dirt2 (7).png" x="266" y="134" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="dirt2 (8).png" x="332" y="134" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature1 (1).png" x="398" y="134" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature1 (2).png" x="464" y="134" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature1 (3).png" x="530" y="134" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature1 (4).png" x="596" y="134" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature1 (5).png" x="662" y="134" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature1 (6).png" x="728" y="134" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature1 (7).png" x="794" y="134" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature1 (8).png" x="860" y="134" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature2 (1).png" x="926" y="134" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature2 (2).png" x="2" y="200" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature2 (3).png" x="68" y="200" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature2 (4).png" x="134" y="200" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature4 (1).png" x="200" y="200" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature4 (2).png" x="266" y="200" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature4 (3).png" x="332" y="200" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature4 (4).png" x="398" y="200" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature4 (5).png" x="464" y="200" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature4 (6).png" x="530" y="200" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature4 (7).png" x="596" y="200" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature4 (8).png" x="662" y="200" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature4 (9).png" x="728" y="200" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature5 (1).png" x="794" y="200" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature5 (2).png" x="860" y="200" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature5 (3).png" x="926" y="200" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature5 (4).png" x="2" y="266" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature5 (5).png" x="68" y="266" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature5 (6).png" x="134" y="266" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature6 (1).png" x="200" y="266" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature6 (2).png" x="266" y="266" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature6 (3).png" x="332" y="266" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature6 (4).png" x="398" y="266" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature6 (5).png" x="464" y="266" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature6 (6).png" x="530" y="266" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature6 (7).png" x="596" y="266" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature7 (1).png" x="662" y="266" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature7 (10).png" x="728" y="266" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature7 (11).png" x="794" y="266" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature7 (2).png" x="860" y="266" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature7 (3).png" x="926" y="266" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature7 (4).png" x="2" y="332" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature7 (5).png" x="68" y="332" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature7 (6).png" x="134" y="332" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature7 (7).png" x="200" y="332" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature7 (8).png" x="266" y="332" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature7 (9).png" x="332" y="332" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature8 (1).png" x="398" y="332" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature8 (2).png" x="464" y="332" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature8 (3).png" x="530" y="332" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature8 (4).png" x="596" y="332" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature8 (5).png" x="662" y="332" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="nature8 (6).png" x="728" y="332" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="rock (1).png" x="794" y="332" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="rock (10).png" x="860" y="332" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="rock (11).png" x="926" y="332" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="rock (12).png" x="2" y="398" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="rock (2).png" x="68" y="398" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="rock (3).png" x="134" y="398" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="rock (4).png" x="200" y="398" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="rock (5).png" x="266" y="398" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="rock (6).png" x="332" y="398" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="rock (7).png" x="398" y="398" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="rock (8).png" x="464" y="398" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="rock (9).png" x="530" y="398" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="rock2 (1).png" x="596" y="398" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="rock2 (10).png" x="662" y="398" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="rock2 (11).png" x="728" y="398" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="rock2 (12).png" x="794" y="398" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="rock2 (2).png" x="860" y="398" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="rock2 (3).png" x="926" y="398" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="rock2 (4).png" x="2" y="464" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="rock2 (5).png" x="68" y="464" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="rock2 (6).png" x="134" y="464" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="rock2 (7).png" x="200" y="464" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="rock2 (8).png" x="266" y="464" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="rock2 (9).png" x="332" y="464" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="snow (1).png" x="398" y="464" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="snow (2).png" x="464" y="464" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="snow (3).png" x="530" y="464" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="snow (4).png" x="596" y="464" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="snow (5).png" x="662" y="464" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="snow (6).png" x="728" y="464" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="snow (7).png" x="794" y="464" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="snow (8).png" x="860" y="464" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="snow (9).png" x="926" y="464" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="snow2 (1).png" x="2" y="530" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="snow2 (2).png" x="68" y="530" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="snow2 (3).png" x="134" y="530" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="snow2 (4).png" x="200" y="530" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="snow2 (5).png" x="266" y="530" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="snow2 (6).png" x="332" y="530" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="snow2 (7).png" x="398" y="530" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="snow2 (8).png" x="464" y="530" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="snow2 (9).png" x="530" y="530" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="snow3 (1).png" x="596" y="530" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="snow3 (2).png" x="662" y="530" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="snow3 (3).png" x="728" y="530" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="snow3 (4).png" x="794" y="530" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="snow3 (5).png" x="860" y="530" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="snow3 (6).png" x="926" y="530" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="snow3 (7).png" x="2" y="596" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="snow3 (8).png" x="68" y="596" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="stone (1).png" x="134" y="596" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="stone (2).png" x="200" y="596" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="stone (3).png" x="266" y="596" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="stone (4).png" x="332" y="596" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="stone (5).png" x="398" y="596" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="stone (6).png" x="464" y="596" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="stone (7).png" x="530" y="596" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="stone2 (1).png" x="596" y="596" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="stone2 (10).png" x="662" y="596" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="stone2 (2).png" x="728" y="596" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="stone2 (3).png" x="794" y="596" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="stone2 (4).png" x="860" y="596" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="stone2 (5).png" x="926" y="596" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="stone2 (6).png" x="2" y="662" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="stone2 (7).png" x="68" y="662" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="stone2 (8).png" x="134" y="662" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="stone2 (9).png" x="200" y="662" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="stone3 (1).png" x="266" y="662" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="stone3 (2).png" x="332" y="662" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="stone3 (3).png" x="398" y="662" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="stone3 (4).png" x="464" y="662" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="stone3 (5).png" x="530" y="662" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="stone3 (6).png" x="596" y="662" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="stone3 (7).png" x="662" y="662" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="stone4 (1).png" x="728" y="662" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="stone4 (2).png" x="794" y="662" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="stone4 (3).png" x="860" y="662" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="stone4 (4).png" x="926" y="662" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="stone4 (5).png" x="2" y="728" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="stone4 (6).png" x="68" y="728" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="stone4 (7).png" x="134" y="728" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="stone4 (8).png" x="200" y="728" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="stone4 (9).png" x="266" y="728" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tree (1).png" x="332" y="728" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tree (2).png" x="398" y="728" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tree (3).png" x="464" y="728" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tree (4).png" x="530" y="728" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tree (5).png" x="596" y="728" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tree (6).png" x="662" y="728" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tree (7).png" x="728" y="728" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tree (8).png" x="794" y="728" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tree (9).png" x="860" y="728" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tree2 (1).png" x="926" y="728" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tree2 (2).png" x="2" y="794" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tree2 (3).png" x="68" y="794" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tree2 (4).png" x="134" y="794" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tree2 (5).png" x="200" y="794" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tree2 (6).png" x="266" y="794" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tree2 (7).png" x="332" y="794" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tree2 (8).png" x="398" y="794" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tree3 (1).png" x="464" y="794" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tree3 (2).png" x="530" y="794" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tree3 (3).png" x="596" y="794" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tree3 (4).png" x="662" y="794" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tree3 (5).png" x="728" y="794" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tree3 (6).png" x="794" y="794" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tree3 (7).png" x="860" y="794" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tree3 (8).png" x="926" y="794" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tree4 (1).png" x="2" y="860" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tree4 (2).png" x="68" y="860" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tree4 (3).png" x="134" y="860" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tree4 (4).png" x="200" y="860" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tree4 (5).png" x="266" y="860" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tree4 (6).png" x="332" y="860" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tree4 (7).png" x="398" y="860" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tree4 (8).png" x="464" y="860" w="64" h="64" pX="0.5" pY="0.5"/>
+</TextureAtlas>

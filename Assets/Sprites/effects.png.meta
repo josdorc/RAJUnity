@@ -1,0 +1,688 @@
+fileFormatVersion: 2
+guid: 188a2b4f5ecd0a04989c689bd38ddd6f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: light1
+    21300002: light2
+    21300004: light3
+    21300006: smoke1
+    21300008: smoke2
+    21300010: smoke3
+    21300012: smoke4
+    21300014: smoke5
+    21300016: dust1
+    21300018: dust2
+    21300020: dust3
+    21300022: dust4
+    21300024: dust5
+    21300026: impact1
+    21300028: impact2
+    21300030: impact3
+    21300032: impact4
+    21300034: powder1
+    21300036: powder2
+    21300038: powder3
+    21300040: teleport1
+    21300042: teleport2
+    21300044: teleport3
+    21300046: teleport4
+    21300048: teleport5
+    21300050: teleport6
+    21300052: teleport7
+    21300054: teleport8
+    21300056: teleport10
+    21300058: teleport11
+    21300060: teleport12
+    21300062: teleport9
+    21300064: magi14
+    21300066: magic1
+    21300068: magic10
+    21300070: magic11
+    21300072: magic12
+    21300074: magic13
+    21300076: magic15
+    21300078: magic2
+    21300080: magic3
+    21300082: magic4
+    21300084: magic5
+    21300086: magic6
+    21300088: magic7
+    21300090: magic8
+    21300092: magic9
+    21300094: ship_shield
+    21300096: greenlight1
+    21300098: greenlight10
+    21300100: greenlight11
+    21300102: greenlight12
+    21300104: greenlight2
+    21300106: greenlight3
+    21300108: greenlight4
+    21300110: greenlight5
+    21300112: greenlight6
+    21300114: greenlight7
+    21300116: greenlight8
+    21300118: greenlight9
+    21300120: explosion1
+    21300122: explosion10
+    21300124: explosion11
+    21300126: explosion12
+    21300128: explosion13
+    21300130: explosion14
+    21300132: explosion15
+    21300134: explosion2
+    21300136: explosion3
+    21300138: explosion4
+    21300140: explosion5
+    21300142: explosion6
+    21300144: explosion7
+    21300146: explosion8
+    21300148: explosion9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dust1
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 791
+        width: 32
+        height: 15
+      alignment: 9
+      pivot: {x: .5, y: .533333361}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dust2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 649
+        width: 38
+        height: 24
+      alignment: 9
+      pivot: {x: .486842096, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dust3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 728
+        width: 37
+        height: 29
+      alignment: 9
+      pivot: {x: .486486495, y: .517241359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dust4
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 703
+        width: 36
+        height: 23
+      alignment: 9
+      pivot: {x: .5, y: .565217376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dust5
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 684
+        width: 27
+        height: 20
+      alignment: 9
+      pivot: {x: .481481493, y: .600000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion1
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 706
+        width: 29
+        height: 50
+      alignment: 9
+      pivot: {x: .551724136, y: .670000017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 420
+        width: 63
+        height: 62
+      alignment: 9
+      pivot: {x: .492063493, y: .459677428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 357
+        width: 63
+        height: 61
+      alignment: 9
+      pivot: {x: .492063493, y: .467213124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 227
+        width: 62
+        height: 61
+      alignment: 9
+      pivot: {x: .483870953, y: .467213124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion13
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 387
+        width: 62
+        height: 53
+      alignment: 9
+      pivot: {x: .483870953, y: .53773582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion14
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 633
+        width: 43
+        height: 49
+      alignment: 9
+      pivot: {x: .255813956, y: .581632674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion15
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 582
+        width: 42
+        height: 49
+      alignment: 9
+      pivot: {x: .238095239, y: .581632674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion2
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 334
+        width: 53
+        height: 56
+      alignment: 9
+      pivot: {x: .509433985, y: .473214298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 290
+        width: 62
+        height: 65
+      alignment: 9
+      pivot: {x: .5, y: .484615386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 459
+        width: 64
+        height: 65
+      alignment: 9
+      pivot: {x: .5, y: .484615386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 449
+        width: 64
+        height: 65
+      alignment: 9
+      pivot: {x: .5, y: .484615386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion6
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 392
+        width: 64
+        height: 65
+      alignment: 9
+      pivot: {x: .5, y: .484615386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion7
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 407
+        width: 64
+        height: 65
+      alignment: 9
+      pivot: {x: .5, y: .484615386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion8
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 382
+        width: 64
+        height: 65
+      alignment: 9
+      pivot: {x: .5, y: .484615386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion9
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 343
+        width: 64
+        height: 62
+      alignment: 9
+      pivot: {x: .5, y: .459677428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greenlight1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 791
+        width: 125
+        height: 51
+      alignment: 9
+      pivot: {x: .508000016, y: .764705896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greenlight10
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 934
+        width: 125
+        height: 88
+      alignment: 9
+      pivot: {x: .492000014, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greenlight11
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 934
+        width: 125
+        height: 88
+      alignment: 9
+      pivot: {x: .508000016, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greenlight12
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 857
+        width: 125
+        height: 88
+      alignment: 9
+      pivot: {x: .508000016, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greenlight2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 808
+        width: 125
+        height: 57
+      alignment: 9
+      pivot: {x: .508000016, y: .684210539}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greenlight3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 867
+        width: 125
+        height: 65
+      alignment: 9
+      pivot: {x: .508000016, y: .600000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greenlight4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 947
+        width: 126
+        height: 75
+      alignment: 9
+      pivot: {x: .503968239, y: .519999981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greenlight5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 759
+        width: 125
+        height: 83
+      alignment: 9
+      pivot: {x: .492000014, y: .469879508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greenlight6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 844
+        width: 125
+        height: 88
+      alignment: 9
+      pivot: {x: .508000016, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greenlight7
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 844
+        width: 125
+        height: 88
+      alignment: 9
+      pivot: {x: .508000016, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greenlight8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 767
+        width: 125
+        height: 88
+      alignment: 9
+      pivot: {x: .508000016, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greenlight9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 934
+        width: 126
+        height: 88
+      alignment: 9
+      pivot: {x: .503968239, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: light1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 675
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: light2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 671
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: light3
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 653
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powder1
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 750
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: .433333337, y: .566666663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powder2
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 767
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: .522727251, y: .522727251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: powder3
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 758
+        width: 30
+        height: 31
+      alignment: 9
+      pivot: {x: .5, y: .516129017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ship_shield
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 697
+        width: 93
+        height: 109
+      alignment: 9
+      pivot: {x: .494623661, y: .495412856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smoke1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 311
+        width: 51
+        height: 74
+      alignment: 9
+      pivot: {x: .5, y: .520270288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smoke2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 592
+        width: 77
+        height: 77
+      alignment: 9
+      pivot: {x: .493506491, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smoke3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 592
+        width: 80
+        height: 81
+      alignment: 9
+      pivot: {x: .493750006, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smoke4
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 624
+        width: 81
+        height: 71
+      alignment: 9
+      pivot: {x: .493827164, y: .57042253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smoke5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 741
+        width: 93
+        height: 48
+      alignment: 9
+      pivot: {x: .483870953, y: .677083313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teleport1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 379
+        width: 62
+        height: 104
+      alignment: 9
+      pivot: {x: .524193525, y: .504807711}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teleport10
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 526
+        width: 70
+        height: 106
+      alignment: 9
+      pivot: {x: .535714269, y: .504716992}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teleport11
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 547
+        width: 71
+        height: 104
+      alignment: 9
+      pivot: {x: .514084518, y: .514423072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teleport12
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 634
+        width: 71
+        height: 105
+      alignment: 9
+      pivot: {x: .5, y: .509523809}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teleport2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 274
+        width: 62
+        height: 104
+      alignment: 9
+      pivot: {x: .540322602, y: .504807711}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teleport3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 380
+        width: 63
+        height: 103
+      alignment: 9
+      pivot: {x: .515873015, y: .509708762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teleport4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 442
+        width: 64
+        height: 103
+      alignment: 9
+      pivot: {x: .4921875, y: .509708762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teleport5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 485
+        width: 66
+        height: 105
+      alignment: 9
+      pivot: {x: .50757575, y: .519047618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teleport6
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 485
+        width: 66
+        height: 105
+      alignment: 9
+      pivot: {x: .50757575, y: .519047618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teleport7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 484
+        width: 68
+        height: 106
+      alignment: 9
+      pivot: {x: .507352948, y: .514150918}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teleport8
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 516
+        width: 69
+        height: 106
+      alignment: 9
+      pivot: {x: .5, y: .514150918}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teleport9
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 474
+        width: 69
+        height: 106
+      alignment: 9
+      pivot: {x: .51449275, y: .504716992}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

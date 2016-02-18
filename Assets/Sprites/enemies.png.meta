@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: a5cb3b1a5ff697842b4678dd1a683615
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SlimeDead
+    21300002: SlimeWalk1
+    21300004: SlimeWalk2
+    21300006: SnailShell
+    21300008: SnailWalk1
+    21300010: SnailWalk2
+    21300012: WormGreenMove1
+    21300014: WormGreenMove2
+    21300016: WormGreenSad
+    21300018: BatFly1
+    21300020: BatFly2
+    21300022: BatHang
+    21300024: MadFire1
+    21300026: MadFire2
+    21300028: MadFire3
+    21300030: MadBlock1
+    21300032: MadBlock2
+    21300034: MadBlock3
+    21300036: SnakeWalk1
+    21300038: SnakeWalk2
+    21300040: WormGreenShoot1
+    21300042: WormGreenShoot2
+    21300044: FireBall
+    21300046: Magnet1
+    21300048: Magnet2
+    21300050: DotPurple
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BatFly1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 463
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BatFly2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 473
+        width: 88
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BatHang
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 405
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DotPurple
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 461
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FireBall
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 132
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MadBlock1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 214
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MadBlock2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 188
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MadFire1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 162
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MadFire2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 169
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MadFire3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 164
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Magnet1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 416
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Magnet2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 455
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeDead
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 422
+        width: 61
+        height: 14
+      alignment: 9
+      pivot: {x: .491803288, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeWalk1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 241
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeWalk2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 365
+        width: 53
+        height: 28
+      alignment: 9
+      pivot: {x: .490566045, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SnailShell
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 154
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SnailWalk1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 370
+        width: 56
+        height: 33
+      alignment: 9
+      pivot: {x: .5, y: .515151501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SnailWalk2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 395
+        width: 59
+        height: 33
+      alignment: 9
+      pivot: {x: .491525412, y: .515151501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SnakeWalk1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 438
+        width: 63
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SnakeWalk2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 430
+        width: 63
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WormGreenMove1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 221
+        width: 52
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WormGreenMove2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 273
+        width: 53
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WormGreenShoot1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 216
+        width: 52
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WormGreenShoot2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 267
+        width: 53
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

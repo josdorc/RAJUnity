@@ -1,0 +1,566 @@
+fileFormatVersion: 2
+guid: d1e06a26e127d164da1f94f02a9fc9a2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 1
+    21300002: 2
+    21300004: 3
+    21300006: 4
+    21300008: 5
+    21300010: 6
+    21300012: 7
+    21300014: burst1
+    21300016: burst2
+    21300018: burst3
+    21300020: combo1
+    21300022: combo2
+    21300024: combo3
+    21300026: fireball1
+    21300028: fireball2
+    21300030: fireball3
+    21300032: gnuherd1
+    21300034: gnuherd2
+    21300036: gnuherd3
+    21300038: hammer1
+    21300040: hammer2
+    21300042: hammer3
+    21300044: iceball1
+    21300046: iceball2
+    21300048: iceball3
+    21300050: kick1
+    21300052: kick2
+    21300054: kick3
+    21300056: laserblast1
+    21300058: laserblast2
+    21300060: laserblast3
+    21300062: poison1
+    21300064: poison2
+    21300066: poison3
+    21300068: punch1
+    21300070: punch2
+    21300072: punch3
+    21300074: shuriken1
+    21300076: shuriken2
+    21300078: shuriken3
+    21300080: skulk1
+    21300082: skulk2
+    21300084: skulk3
+    21300086: whirlpunch1
+    21300088: whirlpunch2
+    21300090: whirlpunch3
+    21300092: fallingbox1
+    21300094: fallingbox2
+    21300096: fallingbox3
+    21300098: fallingbox4
+    21300100: fallingbox5
+    21300102: fallingbox6
+    21300104: fallingbox7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: burst1
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 466
+        width: 69
+        height: 44
+      alignment: 9
+      pivot: {x: .463768125, y: .613636374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burst2
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 404
+        width: 66
+        height: 44
+      alignment: 9
+      pivot: {x: .439393938, y: .613636374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burst3
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 420
+        width: 69
+        height: 44
+      alignment: 9
+      pivot: {x: .463768125, y: .613636374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: combo1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 349
+        width: 73
+        height: 79
+      alignment: 9
+      pivot: {x: .465753436, y: .493670881}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: combo2
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 309
+        width: 65
+        height: 47
+      alignment: 9
+      pivot: {x: .41538462, y: .595744669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: combo3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 27
+        width: 71
+        height: 76
+      alignment: 9
+      pivot: {x: .492957741, y: .486842096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fallingbox1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 183
+        width: 64
+        height: 80
+      alignment: 9
+      pivot: {x: .53125, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fallingbox2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 349
+        width: 64
+        height: 79
+      alignment: 9
+      pivot: {x: .53125, y: .493670881}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fallingbox3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 101
+        width: 64
+        height: 80
+      alignment: 9
+      pivot: {x: .53125, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fallingbox4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 107
+        width: 64
+        height: 75
+      alignment: 9
+      pivot: {x: .53125, y: .519999981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fallingbox5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 284
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: .53125, y: .619047642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fallingbox6
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 54
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: .53125, y: .764705896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fallingbox7
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 6
+        width: 37
+        height: 38
+      alignment: 9
+      pivot: {x: .540540516, y: 1.02631581}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireball1
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 419
+        width: 71
+        height: 43
+      alignment: 9
+      pivot: {x: .450704217, y: .604651153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireball2
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 328
+        width: 67
+        height: 43
+      alignment: 9
+      pivot: {x: .432835817, y: .604651153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireball3
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 374
+        width: 69
+        height: 44
+      alignment: 9
+      pivot: {x: .449275374, y: .613636374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gnuherd1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 347
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gnuherd2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 190
+        width: 77
+        height: 74
+      alignment: 9
+      pivot: {x: .519480526, y: .459459454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gnuherd3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 433
+        width: 73
+        height: 77
+      alignment: 9
+      pivot: {x: .452054799, y: .519480526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hammer1
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 369
+        width: 46
+        height: 62
+      alignment: 9
+      pivot: {x: .869565189, y: .354838699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hammer2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 105
+        width: 69
+        height: 77
+      alignment: 9
+      pivot: {x: .434782594, y: .480519474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hammer3
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 280
+        width: 62
+        height: 46
+      alignment: 9
+      pivot: {x: .370967746, y: .804347813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceball1
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 373
+        width: 69
+        height: 44
+      alignment: 9
+      pivot: {x: .463768125, y: .613636374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceball2
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 358
+        width: 66
+        height: 44
+      alignment: 9
+      pivot: {x: .439393938, y: .613636374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceball3
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 328
+        width: 69
+        height: 44
+      alignment: 9
+      pivot: {x: .463768125, y: .613636374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kick1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 14
+        width: 32
+        height: 30
+      alignment: 9
+      pivot: {x: .84375, y: 1.33333337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kick2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 50
+        width: 45
+        height: 55
+      alignment: 9
+      pivot: {x: .266666681, y: .727272749}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kick3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 7
+        width: 31
+        height: 37
+      alignment: 9
+      pivot: {x: -.0645161271, y: .594594598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laserblast1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 107
+        width: 63
+        height: 24
+      alignment: 9
+      pivot: {x: .507936537, y: .791666687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laserblast2
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 302
+        width: 60
+        height: 24
+      alignment: 9
+      pivot: {x: .483333319, y: .791666687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laserblast3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 107
+        width: 64
+        height: 24
+      alignment: 9
+      pivot: {x: .5, y: .791666687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poison1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 46
+        width: 71
+        height: 59
+      alignment: 9
+      pivot: {x: .521126747, y: .576271176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poison2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 133
+        width: 68
+        height: 55
+      alignment: 9
+      pivot: {x: .5, y: .636363626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poison3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 450
+        width: 72
+        height: 60
+      alignment: 9
+      pivot: {x: .541666687, y: .616666675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: punch1
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 486
+        width: 26
+        height: 24
+      alignment: 9
+      pivot: {x: .846153855, y: 1.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: punch2
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 283
+        width: 55
+        height: 24
+      alignment: 9
+      pivot: {x: .272727281, y: 1.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: punch3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 460
+        width: 25
+        height: 24
+      alignment: 9
+      pivot: {x: -.600000024, y: 1.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shuriken1
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2
+        width: 75
+        height: 46
+      alignment: 9
+      pivot: {x: .466666669, y: .739130437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shuriken2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 5
+        width: 73
+        height: 47
+      alignment: 9
+      pivot: {x: .452054799, y: .744680822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shuriken3
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 464
+        width: 75
+        height: 46
+      alignment: 9
+      pivot: {x: .466666669, y: .739130437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skulk1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 184
+        width: 77
+        height: 79
+      alignment: 9
+      pivot: {x: .519480526, y: .506329119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skulk2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 266
+        width: 77
+        height: 79
+      alignment: 9
+      pivot: {x: .506493509, y: .506329119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skulk3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 265
+        width: 77
+        height: 80
+      alignment: 9
+      pivot: {x: .519480526, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: whirlpunch1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 430
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: whirlpunch2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 429
+        width: 79
+        height: 81
+      alignment: 9
+      pivot: {x: .506329119, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: whirlpunch3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 20
+        width: 80
+        height: 79
+      alignment: 9
+      pivot: {x: .5, y: .493670881}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

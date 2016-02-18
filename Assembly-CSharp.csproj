@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{B28342DB-D616-8E16-E43C-A16BBB40C1FD}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_5_1_1;UNITY_5_1;UNITY_5;ENABLE_NEW_BUGREPORTER;ENABLE_2D_PHYSICS;ENABLE_4_6_FEATURES;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PHYSICS_PHYSX3;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_LICENSE;ENABLE_AUDIOMIXER_SUSPEND;ENABLE_EDITOR_METRICS;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_LOCALIZATION;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_SUBSTANCE;ENABLE_TEXTUREID_MAP;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_MONO;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_32;UNITY_EDITOR_WIN</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\FingerGestures\Scripts\Base\ContinuousGestureRecognizer.cs" />
+     <Compile Include="Assets\FingerGestures\Scripts\Base\DiscreteGestureRecognizer.cs" />
+     <Compile Include="Assets\FingerGestures\Scripts\Base\FingerEventDetector.cs" />
+     <Compile Include="Assets\FingerGestures\Scripts\Base\GestureRecognizer.cs" />
+     <Compile Include="Assets\FingerGestures\Scripts\Base\GestureRecognizerDelegate.cs" />
+     <Compile Include="Assets\FingerGestures\Scripts\Components\FingerClusterManager.cs" />
+     <Compile Include="Assets\FingerGestures\Scripts\Components\ScreenRaycaster.cs" />
+     <Compile Include="Assets\FingerGestures\Scripts\Finger Event Detectors\FingerDownDetector.cs" />
+     <Compile Include="Assets\FingerGestures\Scripts\Finger Event Detectors\FingerHoverDetector.cs" />
+     <Compile Include="Assets\FingerGestures\Scripts\Finger Event Detectors\FingerMotionDetector.cs" />
+     <Compile Include="Assets\FingerGestures\Scripts\Finger Event Detectors\FingerUpDetector.cs" />
+     <Compile Include="Assets\FingerGestures\Scripts\FingerGestures.cs" />
+     <Compile Include="Assets\FingerGestures\Scripts\Gesture Recognizers\DragRecognizer.cs" />
+     <Compile Include="Assets\FingerGestures\Scripts\Gesture Recognizers\LongPressRecognizer.cs" />
+     <Compile Include="Assets\FingerGestures\Scripts\Gesture Recognizers\PinchRecognizer.cs" />
+     <Compile Include="Assets\FingerGestures\Scripts\Gesture Recognizers\PointCloudGestureTemplate.cs" />
+     <Compile Include="Assets\FingerGestures\Scripts\Gesture Recognizers\PointCloudRegognizer.cs" />
+     <Compile Include="Assets\FingerGestures\Scripts\Gesture Recognizers\SwipeRecognizer.cs" />
+     <Compile Include="Assets\FingerGestures\Scripts\Gesture Recognizers\TapRecognizer.cs" />
+     <Compile Include="Assets\FingerGestures\Scripts\Gesture Recognizers\TwistRecognizer.cs" />
+     <Compile Include="Assets\FingerGestures\Scripts\Input Providers\FGInputProvider.cs" />
+     <Compile Include="Assets\FingerGestures\Scripts\Input Providers\FGMouseInputProvider.cs" />
+     <Compile Include="Assets\FingerGestures\Scripts\Input Providers\FGTouchInputProvider.cs" />
+     <Compile Include="Assets\FingerGestures\Scripts\Toolbox\Camera\TBDragView.cs" />
+     <Compile Include="Assets\FingerGestures\Scripts\Toolbox\Camera\TBLookAtTap.cs" />
+     <Compile Include="Assets\FingerGestures\Scripts\Toolbox\Camera\TBOrbit.cs" />
+     <Compile Include="Assets\FingerGestures\Scripts\Toolbox\Camera\TBPan.cs" />
+     <Compile Include="Assets\FingerGestures\Scripts\Toolbox\Camera\TBPinchZoom.cs" />
+     <Compile Include="Assets\FingerGestures\Scripts\Toolbox\TBDragToMove.cs" />
+     <Compile Include="Assets\FingerGestures\Scripts\Toolbox\TBHoverChangeMaterial.cs" />
+     <Compile Include="Assets\FingerGestures\Scripts\Toolbox\TBHoverChangeScale.cs" />
+     <Compile Include="Assets\FingerGestures\Scripts\Toolbox\TBPinchToScale.cs" />
+     <Compile Include="Assets\FingerGestures\Scripts\Toolbox\TBQuickSetup.cs" />
+     <Compile Include="Assets\FingerGestures\Scripts\Toolbox\TBTwistToRotate.cs" />
+     <Compile Include="Assets\ITween\iTween.cs" />
+     <Compile Include="Assets\Scripts\Camera\FollowTarget.cs" />
+     <Compile Include="Assets\Scripts\Dummy.cs" />
+     <Compile Include="Assets\Scripts\Enemies\BatController.cs" />
+     <Compile Include="Assets\Scripts\Enemies\BatShieldController.cs" />
+     <Compile Include="Assets\Scripts\Enemies\BossLevelController.cs" />
+     <Compile Include="Assets\Scripts\Enemies\BossLookTarget.cs" />
+     <Compile Include="Assets\Scripts\Enemies\BossWilberController.cs" />
+     <Compile Include="Assets\Scripts\Enemies\EnemyObstacleDetector.cs" />
+     <Compile Include="Assets\Scripts\Enemies\EnemySpawnController.cs" />
+     <Compile Include="Assets\Scripts\Enemies\MadBlockController.cs" />
+     <Compile Include="Assets\Scripts\Enemies\MadFireController.cs" />
+     <Compile Include="Assets\Scripts\Enemies\MagnetController.cs" />
+     <Compile Include="Assets\Scripts\Enemies\SlimeController.cs" />
+     <Compile Include="Assets\Scripts\Enemies\SnailController.cs" />
+     <Compile Include="Assets\Scripts\Enemies\SnailShellController.cs" />
+     <Compile Include="Assets\Scripts\Enemies\WormController.cs" />
+     <Compile Include="Assets\Scripts\Enemies\WormFireController.cs" />
+     <Compile Include="Assets\Scripts\Enums.cs" />
+     <Compile Include="Assets\Scripts\GUI\GameOverController.cs" />
+     <Compile Include="Assets\Scripts\GUI\InputController.cs" />
+     <Compile Include="Assets\Scripts\GUI\MapController.cs" />
+     <Compile Include="Assets\Scripts\GUI\MenuController.cs" />
+     <Compile Include="Assets\Scripts\GUI\MessageBoxController.cs" />
+     <Compile Include="Assets\Scripts\GUI\StatusController.cs" />
+     <Compile Include="Assets\Scripts\GameData.cs" />
+     <Compile Include="Assets\Scripts\Items\AutoDestroy.cs" />
+     <Compile Include="Assets\Scripts\Items\AutoRotateController.cs" />
+     <Compile Include="Assets\Scripts\Items\BackgroundController.cs" />
+     <Compile Include="Assets\Scripts\Items\BombItemController.cs" />
+     <Compile Include="Assets\Scripts\Items\BoxBrickController.cs" />
+     <Compile Include="Assets\Scripts\Items\BoxDestroyEffect.cs" />
+     <Compile Include="Assets\Scripts\Items\BoxInfoController.cs" />
+     <Compile Include="Assets\Scripts\Items\BoxItemController.cs" />
+     <Compile Include="Assets\Scripts\Items\BoxLockController.cs" />
+     <Compile Include="Assets\Scripts\Items\BubbleItemController.cs" />
+     <Compile Include="Assets\Scripts\Items\BulletController.cs" />
+     <Compile Include="Assets\Scripts\Items\CheckPointController.cs" />
+     <Compile Include="Assets\Scripts\Items\CollectItemController.cs" />
+     <Compile Include="Assets\Scripts\Items\ContactDamageController.cs" />
+     <Compile Include="Assets\Scripts\Items\DeathZoneController.cs" />
+     <Compile Include="Assets\Scripts\Items\HealthController.cs" />
+     <Compile Include="Assets\Scripts\Items\ImpactBodyController.cs" />
+     <Compile Include="Assets\Scripts\Items\PlatformController.cs" />
+     <Compile Include="Assets\Scripts\Items\SimpleBoxController.cs" />
+     <Compile Include="Assets\Scripts\Items\StuffRepeatController.cs" />
+     <Compile Include="Assets\Scripts\Items\SwitchButtonController.cs" />
+     <Compile Include="Assets\Scripts\Items\TubeWarpController.cs" />
+     <Compile Include="Assets\Scripts\Player\PlayerAnimationController.cs" />
+     <Compile Include="Assets\Scripts\Player\PlayerAttackController.cs" />
+     <Compile Include="Assets\Scripts\Player\PlayerMotionController.cs" />
+     <Compile Include="Assets\Scripts\Player\PlayerStatusController.cs" />
+     <Compile Include="Assets\Scripts\Player\PlayerWarpController.cs" />
+     <Compile Include="Assets\Scripts\Test.cs" />
+     <Compile Include="Assets\Scripts\Utils.cs" />
+     <Compile Include="Assets\Tile Editor\Scripts\Class\ColliderInfo.cs" />
+     <Compile Include="Assets\Tile Editor\Scripts\Class\CollisionType.cs" />
+     <Compile Include="Assets\Tile Editor\Scripts\Class\Tile.cs" />
+     <Compile Include="Assets\Tile Editor\Scripts\Class\TileData.cs" />
+     <Compile Include="Assets\Tile Editor\Scripts\Class\TileEditorUtility.cs" />
+     <Compile Include="Assets\Tile Editor\Scripts\Class\TileLayer.cs" />
+     <Compile Include="Assets\Tile Editor\Scripts\Class\TileMap.cs" />
+     <Compile Include="Assets\Tile Editor\Scripts\Class\TileSet.cs" />
+     <Compile Include="Assets\Tile Editor\Scripts\Class\TileSetManager.cs" />
+     <None Include="Assets\FingerGestures\Readme.txt" />
+     <None Include="Assets\Sprites\tilemap.xml" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+ <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

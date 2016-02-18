@@ -1,0 +1,385 @@
+fileFormatVersion: 2
+guid: f75d8d323ee3cf9468bddace6cfa9219
+timeCreated: 1451880801
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: airkick1
+    21300002: airkick2
+    21300004: airkick3
+    21300006: airpunch1
+    21300008: airpunch2
+    21300010: airpunch3
+    21300012: block1
+    21300014: block2
+    21300016: block3
+    21300018: hit1
+    21300020: hit2
+    21300022: hit3
+    21300024: idle1
+    21300026: idle2
+    21300028: idle3
+    21300030: jump1
+    21300032: jump2
+    21300034: jump3
+    21300036: kick1
+    21300038: kick2
+    21300040: kick3
+    21300042: ko1
+    21300044: ko2
+    21300046: ko3
+    21300048: punch1
+    21300050: punch2
+    21300052: punch3
+    21300054: walk1
+    21300056: walk2
+    21300058: walk3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: airkick1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 123
+        width: 52
+        height: 65
+      alignment: 9
+      pivot: {x: .538461566, y: .476923078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: airkick2
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 66
+        width: 53
+        height: 62
+      alignment: 9
+      pivot: {x: .509433985, y: .45161289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: airkick3
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 192
+        width: 55
+        height: 63
+      alignment: 9
+      pivot: {x: .4909091, y: .444444448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: airpunch1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 52
+        height: 65
+      alignment: 9
+      pivot: {x: .519230783, y: .476923078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: airpunch2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 123
+        width: 52
+        height: 65
+      alignment: 9
+      pivot: {x: .519230783, y: .476923078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: airpunch3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 189
+        width: 53
+        height: 66
+      alignment: 9
+      pivot: {x: .490566045, y: .454545468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 56
+        width: 50
+        height: 65
+      alignment: 9
+      pivot: {x: .439999998, y: .615384638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 56
+        width: 50
+        height: 65
+      alignment: 9
+      pivot: {x: .439999998, y: .615384638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: block3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 123
+        width: 50
+        height: 65
+      alignment: 9
+      pivot: {x: .439999998, y: .615384638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hit1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 190
+        width: 52
+        height: 65
+      alignment: 9
+      pivot: {x: .538461566, y: .615384638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hit2
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 191
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: .520833313, y: .609375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hit3
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 125
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: .5625, y: .609375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle1
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 57
+        width: 53
+        height: 64
+      alignment: 9
+      pivot: {x: .528301895, y: .625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle2
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 127
+        width: 53
+        height: 63
+      alignment: 9
+      pivot: {x: .528301895, y: .634920657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle3
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 2
+        width: 53
+        height: 62
+      alignment: 9
+      pivot: {x: .528301895, y: .645161271}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump1
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 195
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: .518518507, y: .600000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump2
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 130
+        width: 53
+        height: 63
+      alignment: 9
+      pivot: {x: .509433985, y: .428571433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump3
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 191
+        width: 50
+        height: 64
+      alignment: 9
+      pivot: {x: .439999998, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kick1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 125
+        width: 50
+        height: 64
+      alignment: 9
+      pivot: {x: .519999981, y: .625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kick2
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 59
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: .520833313, y: .625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kick3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 190
+        width: 49
+        height: 65
+      alignment: 9
+      pivot: {x: .510204077, y: .615384638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ko1
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 6
+        width: 50
+        height: 58
+      alignment: 9
+      pivot: {x: .439999998, y: .689655185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ko2
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 68
+        width: 51
+        height: 57
+      alignment: 9
+      pivot: {x: .470588237, y: .701754391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ko3
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2
+        width: 53
+        height: 55
+      alignment: 9
+      pivot: {x: .509433985, y: .727272749}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: punch1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 191
+        width: 53
+        height: 64
+      alignment: 9
+      pivot: {x: .528301895, y: .625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: punch2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 125
+        width: 53
+        height: 64
+      alignment: 9
+      pivot: {x: .509433985, y: .625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: punch3
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 59
+        width: 53
+        height: 64
+      alignment: 9
+      pivot: {x: .490566045, y: .625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 122
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: .471698105, y: .615384638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 55
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: .471698105, y: .615384638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 190
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: .471698105, y: .615384638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
